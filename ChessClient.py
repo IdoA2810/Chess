@@ -154,7 +154,7 @@ The main driver for our code. This will handle user input and updating the graph
 
 def main():
     sock = socket.socket()
-    ip = "79.182.204.17"
+    ip = ""
     port = 12345
     sock.connect((ip, port))
     pygame.init()
