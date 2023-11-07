@@ -1,0 +1,11 @@
+__init__.py
+ChessBot.pyc
+ChessEngine.pyc
+ChessEngineOld.py
+ChessEngineOld.pyc
+ChessEngine-NoBot Backup
+ChessMain.pyc
+ChessMainOld.py
+SizeOfSize.pyc
+.idea
+__pycache__
